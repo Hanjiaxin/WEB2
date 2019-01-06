@@ -1,0 +1,304 @@
+.top {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+.top iframe {
+    width: 100%;
+}
+
+.bottom iframe {
+    width: 100%;
+}
+/*清除浮动*/
+.clear{
+	clear:both;
+}
+.banner{
+	height:40px;
+	background-color:#000000;
+}
+.banner1{
+	width:1200px;
+	height:40px;
+	margin:0 auto;
+}
+.banner1a{
+	width:1000px;
+	height:40px;
+}
+.banner1a li{
+	height:30px;
+	float:left;
+	padding-top:10px;
+	text-align:center;
+	margin-right:50px;
+}
+.banner1a li:first-child{
+	height:30px;
+	width:100px;
+	text-align:center;
+	padding-top:10px;
+	background-color:#fe0d4a;
+}
+.banner1a a{
+	font-size:16px;
+	color:#ffffff;
+}
+.banner1a li.active{
+	background-color:#fe0d4a;
+}
+.banner1b{
+	float:right;
+}
+
+
+
+.bannerb{
+	height:780px;
+	background-color:#f8f7f6;
+}
+.bannerb1{
+	width:1200px;
+	height:32px;
+	font-size:16px;
+	padding-top:10px;
+	margin:0 auto;
+}
+.bannerb1 a{
+	
+	color:#000000;
+}
+.bannerc{
+	width:1200px;
+	height:780px;
+	margin:0 auto;
+}
+.bannerc1{
+	width:1000px;
+	height:630px;
+	float:left;
+	background-color:#ffffff;
+}
+
+
+
+#bannerc1a{
+	width:450px;
+	height:630px;
+	float:left;
+}
+#bannerc1aa{
+	height:410px;
+	width:410px;
+	position: relative;
+	margin-top:20px;
+	margin-left:20px;
+	border: 1px solid #d0cdc7;
+}
+#img1 {
+    width: 410px;
+    height: 410px;
+    float:left;
+    position: absolute;
+    outline: 1px solid #d0cdc7;
+}
+
+#img1 img {
+    width: 410px;
+    height: 410px;
+}
+#slider{
+	width: 180px;
+    height: 180px;
+    background: #CCC;
+    opacity: 0.4;
+    position: absolute;
+    left: 0;
+    top: 0;
+    cursor: move;
+    display: none;
+}
+#img2{
+	position: absolute;
+	height:410px;
+	width:410px;
+	margin-left:410px;
+	background-color:#ffffff;
+	outline: 1px solid #d0cdc7;
+	display: none;
+	float:left;
+	overflow: hidden;
+}
+#Bimg {
+    width:820px;
+    height:820px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.bannerc1ab{
+	width:410px;
+	height:65px;
+	margin-top:25px;
+	margin-left:20px;
+}
+#btn{
+	width:60px;
+	height:60px;
+	float:left;
+}
+#bt{
+	width:60px;
+	height:60px;
+	float:left;
+}
+
+.bannerc1b{
+	width:540px;
+	height:630px;
+	float:right;
+}
+.bannerc1b1{
+	margin-top:20px;
+	font-size:18px;
+	color:#000000;
+}
+.bannerc1b2{
+	font-size:12px;
+	margin-top:10px;
+	line-height:20px;
+	color:#676660;
+}
+.bannerc1b3{
+	width:500px;
+	height:35px;
+	margin-top:10px;
+	padding-top:18px;
+	padding-left:18px;
+	background-color:#f7f6f5;
+}
+.bannerc1b4{
+	width:500px;
+	height:35px;
+	margin-top:10px;
+	padding-top:18px;
+	padding-left:18px;
+	
+}
+#bannerc1b5{
+	width:65px;
+	height:30px;
+	float:left;
+	margin-left:18px;
+	border: 1px solid #fe0d4a;
+	background:url(../images/duigou.png) no-repeat;
+	background-position: right bottom;
+	display:none;
+}
+#bannerc1b6{
+	width:65px;
+	height:30px;
+	float:left;
+	margin-left:18px;
+	border: 1px solid #fe0d4a;
+	background:url(../images/duigou.png) no-repeat;
+	background-position: right bottom;
+	display:none;
+}
+.bannerc1b7{
+	width:500px;
+	height:35px;
+	margin-top:10px;
+	padding-left:18px;
+}
+#bannerc1b8{
+	width:30px;
+	height:30px;
+	float:left;
+	margin-left:60px;
+	background-color:#ffffff;
+	margin-top: -2px;
+}
+#bannerc1b9{
+	width:50px;
+	height:25px;
+	float:left;
+	text-align:center;
+	border: 1px solid #aca7a2;
+	background-color:#ffffff;
+}
+#bannerc1b10{
+	width:30px;
+	height:29px;
+	float:left;
+	background-color:#ffffff;
+	margin-top: -1px;
+}
+.bannerc1b11{
+	width:500px;
+	height:20px;
+	padding-left:18px;
+}
+.bannerc1b12{
+	width:500px;
+	height:40px;
+	margin-top:15px;
+}
+.bannerc1b13{
+	width:150px;
+	height:40px;
+	color:#ff0754;
+	float:left;
+	margin-left:40px;
+	border-radius:5px;
+	background-color:#ffffff;
+	border: 1px solid #ff0754;
+}
+.bannerc1b14{
+	width:150px;
+	height:40px;
+	float:left;
+	margin-left:25px;
+	border-radius:5px;
+	color:#ffffff;
+	background-color:#ff0754;
+}
+.xu{
+	margin-left:110px;
+	margin-top:10px;
+	float:left
+}
+#pic1{
+	display:none;
+	color:#ff9003;
+	float:left;
+	margin-top:10px;
+}
+#pic2{
+	display:none;
+	color:#ff9003;
+	float:left;
+	margin-top:10px;
+}
+
+
+
+.bannerc2{
+	width:175px;
+	height:630px;
+	float:right;
+	background-color:#ffffff;
+}
+.bannerc3{
+	width:1200px;
+	height:130px;
+
+}
+#form{
+    top: 10%;
+    left: 10%;
+    width: 20%;
+    height: 30%;
+}
